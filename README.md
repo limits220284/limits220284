@@ -1,8 +1,8 @@
 ### Hello World~ 👋 
 
-**algorithm competition enthusiast(caiji)**
+**Algorithm competition enthusiast(caiji)**
 
-**adept at software installation and uninstallation**
+**Adept at software installation and uninstallation**
 
 
 ### 🛠 &nbsp;Tech Stack
