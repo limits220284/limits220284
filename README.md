@@ -1,8 +1,7 @@
-### limits~ 👋 
+### Hello World~ 👋 
 
-**算法竞赛爱好者，but caiji**
-
-**Golanger**
+**algorithm competition enthusiast(caiji)**
+**adept at software installation and uninstallation**
 
 
 ### 🛠 &nbsp;Tech Stack
