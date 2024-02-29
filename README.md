@@ -1,11 +1,3 @@
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying AI prompt and langchain.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design.\
-✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.\
-
-<img alt="Night Coding" src="https://avatars.githubusercontent.com/u/66709461?s=400&u=76d8266d8a43ed00c2c8cd94681c0bb1d35eb565&v=4" width="170" height="170" align="left"/>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)&nbsp;
