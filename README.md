@@ -5,7 +5,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design.\
 ✉️ &nbsp;You can shoot me an email! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://github.com/Kidr1cE/Kidr1cE.github.io/blob/main/images/face.jpg?raw=true" width="170" height="170" align="left"/>
+<img alt="Night Coding" src="https://avatars.githubusercontent.com/u/66709461?s=400&u=76d8266d8a43ed00c2c8cd94681c0bb1d35eb565&v=4" width="170" height="170" align="left"/>
 
 ### 🛠 &nbsp;Tech Stack
 
