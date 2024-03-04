@@ -1,6 +1,5 @@
 ### Hello World~ 👋 
 
-**Algorithm competition enthusiast(caiji)**
 
 **Adept at software installation and uninstallation**
 
