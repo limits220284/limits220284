@@ -4,7 +4,7 @@
 **Adept at software installation and uninstallation**
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Tech Stack
 
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)&nbsp;
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)&nbsp;
