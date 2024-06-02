@@ -1,8 +1,6 @@
 ### Hello World~ 👋 
 
-
 **Adept at software installation and uninstallation**
-
 
 ### 🛠 &nbsp; Tech Stack
 
