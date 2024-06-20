@@ -17,7 +17,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <span> </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=limits220284&theme==tokyonight" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=limits220284&theme==onedark" />
   <span> </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limits220284&hide=html,css,javascript&layout=compact&langs_count=8&theme=onedark" />
   <span> </span>
