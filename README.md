@@ -14,6 +14,7 @@
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)&nbsp;
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)&nbsp;
 <!-- from https://badges.pages.dev/ -->
+
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
   <span> </span>
